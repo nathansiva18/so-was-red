@@ -16,5 +16,8 @@ public class ClassA {
 	private void constantine() {
 		System.out.println("devil");
 	}
+	private void speed() {
+		System.out.println("110km");
+	}
 
 }
