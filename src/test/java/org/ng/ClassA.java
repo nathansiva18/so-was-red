@@ -19,5 +19,8 @@ public class ClassA {
 	private void speed() {
 		System.out.println("110km");
 	}
+	private void speed2() {
+		System.out.println("water");
+	}
 
 }
