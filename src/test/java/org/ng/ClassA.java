@@ -10,5 +10,11 @@ public class ClassA {
 	private void parabellum() {
 		System.out.println("matrix");
 	}
+	private void ronin() {
+		System.out.println("47");
+	}
+	private void constantine() {
+		System.out.println("devil");
+	}
 
 }
