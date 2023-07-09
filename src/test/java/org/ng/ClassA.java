@@ -25,6 +25,12 @@ public class ClassA {
 	private void constantine() {
 		System.out.println("devil");
 	}
+	private void speed() {
+		System.out.println("110km");
+	}
+	private void speed2() {
+		System.out.println("water");
+	}
 
 	private String constatine2(String path, String key) throws FileNotFoundException, IOException {
 		Properties prop = new Properties();
