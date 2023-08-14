@@ -48,4 +48,12 @@ public class ClassA {
 		System.out.println("djkfhsdj,fs,");
 	}
 
+	private void laalBahadoor() {
+		System.out.println("hc.uiskjhcs.ui");
+	}
+
+	private void tigerHukum() {
+		System.out.println("djhelwugf");
+	}
+
 }
