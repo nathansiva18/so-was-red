@@ -65,5 +65,13 @@ public class ClassA {
 	private void tigerHukum() {
 		System.out.println("djhelwugf");
 	}
+	private void alaparaKelapurom() {
+		// TODO Auto-generated method stub
+
+	}
+	private void ufeu() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
