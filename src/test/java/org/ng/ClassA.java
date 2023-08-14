@@ -48,6 +48,7 @@ public class ClassA {
 		System.out.println("djkfhsdj,fs,");
 	}
 
+
 	private void lksfnhi() {
 		// TODO Auto-generated method stub
 
@@ -57,4 +58,12 @@ public class ClassA {
 		// TODO Auto-generated method stub
 
 	}
+	private void laalBahadoor() {
+		System.out.println("hc.uiskjhcs.ui");
+	}
+
+	private void tigerHukum() {
+		System.out.println("djhelwugf");
+	}
+
 }
