@@ -25,9 +25,11 @@ public class ClassA {
 	private void constantine() {
 		System.out.println("devil");
 	}
+
 	private void speed() {
 		System.out.println("110km");
 	}
+
 	private void speed2() {
 		System.out.println("water");
 	}
@@ -40,6 +42,10 @@ public class ClassA {
 
 	private void naanthaan() {
 		System.out.println("sjhfjksj.k");
+	}
+
+	private void mani() {
+		System.out.println("djkfhsdj,fs,");
 	}
 
 }
