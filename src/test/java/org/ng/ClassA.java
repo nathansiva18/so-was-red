@@ -65,5 +65,14 @@ public class ClassA {
 	private void tigerHukum() {
 		System.out.println("djhelwugf");
 	}
+	
+	private void jh() {
+		// TODO Auto-generated method stub
+
+	}
+	private void jhjh() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
