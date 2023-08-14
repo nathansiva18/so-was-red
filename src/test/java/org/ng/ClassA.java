@@ -58,6 +58,15 @@ public class ClassA {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void jh() {
+		// TODO Auto-generated method stub
+
+	}
+	private void jhjh() {
+		
+	}
+	
 	private void laalBahadoor() {
 		System.out.println("hc.uiskjhcs.ui");
 	}
@@ -65,13 +74,12 @@ public class ClassA {
 	private void tigerHukum() {
 		System.out.println("djhelwugf");
 	}
-	
-	private void jh() {
+		
+	private void alaparaKelapurom() {
 		// TODO Auto-generated method stub
 
 	}
-	private void jhjh() {
-		// TODO Auto-generated method stub
+	private void ufeu() {
 
 	}
 
