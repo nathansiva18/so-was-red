@@ -48,6 +48,16 @@ public class ClassA {
 		System.out.println("djkfhsdj,fs,");
 	}
 
+
+	private void lksfnhi() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void jhssdk() {
+		// TODO Auto-generated method stub
+
+	}
 	private void laalBahadoor() {
 		System.out.println("hc.uiskjhcs.ui");
 	}
